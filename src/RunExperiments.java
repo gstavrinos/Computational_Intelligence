@@ -43,7 +43,7 @@ public class RunExperiments
 			//experiment.setShowPValue(true);
 			experiment.startExperiment();
 			System.out.println("");
-			//experiment = null;
+			experiment = null;
 		}
 	
 		

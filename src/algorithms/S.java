@@ -30,8 +30,6 @@ public class S extends Algorithm {
             xsbest = generateRandomSolution(bounds, problemDimension);
             fxsbest = problem.f(xsbest);
             currEvaluations++;              //we run f(x) once already!
-            //initialSolution = xs;           //initialSolution is going to be used as xbest
-           // initialFitness = fxs;     //initialFitness is going to be used as f(xbset)
         }
 
         FT.add(0, fxsbest);
@@ -41,7 +39,7 @@ public class S extends Algorithm {
             delta[i] = alpha*(bounds[i][1]-bounds[i][0]);
         }
 
-        /*while(currEvaluations < maxEvaluations){  //I need to minimize the use of f(x)
+        while(currEvaluations < maxEvaluations){  //I need to minimize the use of f(x)
             boolean improved = false;
             for (int i = 0; i < problemDimension && currEvaluations < maxEvaluations; i++){
                 xs[i] = xsbest[i] - delta[i];
@@ -50,7 +48,7 @@ public class S extends Algorithm {
                 }
                 fxs = problem.f(xs);
                 currEvaluations++;
-                FT.add(currEvaluations, fxs);
+                //FT.add(currEvaluations, fxs);
                 if(fxs <= fxsbest){
                     xsbest[i] = xs[i];
                     fxsbest = fxs;
@@ -63,7 +61,7 @@ public class S extends Algorithm {
                     }
                     fxs = problem.f(xs);
                     currEvaluations++;
-                    FT.add(currEvaluations, fxs);
+                    //FT.add(currEvaluations, fxs);
                     if(fxs <= fxsbest){
                         xsbest[i] = xs[i];
                         fxsbest = fxs;
@@ -77,12 +75,15 @@ public class S extends Algorithm {
                     }
                 }
             }
+            if(currEvaluations%problemDimension==0) {
+                FT.add(currEvaluations, fxs);
+            }
             if(!improved){
                 for(int i=0;i<problemDimension;i++){
                     delta[i] /= 2;
                 }
             }
-        }*/
+        }
 
         finalBest = xsbest;
         FT.add(currEvaluations, fxs);
