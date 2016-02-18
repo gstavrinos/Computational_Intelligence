@@ -48,7 +48,6 @@ public class S extends Algorithm {
                 }
                 fxs = problem.f(xs);
                 currEvaluations++;
-                //FT.add(currEvaluations, fxs);
                 if(fxs <= fxsbest){
                     xsbest[i] = xs[i];
                     fxsbest = fxs;
@@ -61,7 +60,6 @@ public class S extends Algorithm {
                     }
                     fxs = problem.f(xs);
                     currEvaluations++;
-                    //FT.add(currEvaluations, fxs);
                     if(fxs <= fxsbest){
                         xsbest[i] = xs[i];
                         fxsbest = fxs;
@@ -75,9 +73,7 @@ public class S extends Algorithm {
                     }
                 }
             }
-            if(currEvaluations%problemDimension==0) {
-                FT.add(currEvaluations, fxs);
-            }
+            FT.add(currEvaluations, fxs);
             if(!improved){
                 for(int i=0;i<problemDimension;i++){
                     delta[i] /= 2;
@@ -85,8 +81,7 @@ public class S extends Algorithm {
             }
         }
 
-        finalBest = xsbest;
-        FT.add(currEvaluations, fxs);
+        finalBest = xs;
 
         return FT;
     }
