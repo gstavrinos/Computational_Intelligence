@@ -1,0 +1,30 @@
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: SimulatedAnnealing 
+SimulatedAnnealing:(method 1.0)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 30 D #####################
+Number of runs: 100
+Algorithms: SimulatedAnnealing 
+SimulatedAnnealing:(method 1.0)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 100
+Algorithms: SimulatedAnnealing 
+SimulatedAnnealing:(method 1.0)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+

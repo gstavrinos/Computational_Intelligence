@@ -30,9 +30,14 @@ public class RunExperiments
 			
 		//@@@ MODIFY THIS PART @@@
 
+		/*
 		experiments.add(new Lesson3Test(10));
 		experiments.add(new Lesson3Test(30));
 		experiments.add(new Lesson3Test(50));
+		*/
+		experiments.add(new Lesson4Test(10));
+		experiments.add(new Lesson4Test(30));
+		experiments.add(new Lesson4Test(50));
 		
 		//@@@@@@
 	

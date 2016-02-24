@@ -73,7 +73,7 @@ public class S extends Algorithm {
                     }
                 }
             }
-            FT.add(currEvaluations, fxs);
+            FT.add(currEvaluations, fxsbest);
             if(!improved){
                 for(int i=0;i<problemDimension;i++){
                     delta[i] /= 2;
@@ -81,7 +81,7 @@ public class S extends Algorithm {
             }
         }
 
-        finalBest = xs;
+        finalBest = xsbest;
 
         return FT;
     }
