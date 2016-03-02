@@ -6,6 +6,8 @@ package benchmarks;
 import utils.MatLab;
 import interfaces.Problem;
 
+import static java.lang.Math.cos;
+
 /**
  * Benchmark Base Functions.
  */
@@ -62,7 +64,7 @@ public class BaseFunctions
 				for (int i = 0; i < n; i++)	
 				{
 					square_sum += Math.pow(x[i],2);
-					cos_sum += Math.cos(c*x[i]);
+					cos_sum += cos(c*x[i]);
 				}
 
 				y = -a * Math.exp(-b * Math.sqrt(square_sum/n)) - Math.exp(cos_sum/n) + a + Math.exp(1);
@@ -247,7 +249,7 @@ public class BaseFunctions
 				for (int i = 0; i < n; i++){
 					sum += x[i]*Math.sin(Math.sqrt(Math.abs(x[i])));
 				}
-				y = 418.9829*dimension;
+				y = 418.9829* this.getDimension();
 			}
 			return y;
 		}
@@ -293,7 +295,7 @@ public class BaseFunctions
 			else
 			{
 				for (int i = 0; i < n; i++){
-					y += Math.pow(x[i], 2)-A*cos(2*Math.PI*x[i]);
+					y += Math.pow(x[i], 2)-A*Math.cos(2*Math.PI*x[i]);
 				}
 			}
 			return y;

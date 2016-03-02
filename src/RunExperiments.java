@@ -34,10 +34,13 @@ public class RunExperiments
 		experiments.add(new Lesson3Test(10));
 		experiments.add(new Lesson3Test(30));
 		experiments.add(new Lesson3Test(50));
-		*/
+
 		experiments.add(new Lesson4Test(10));
 		experiments.add(new Lesson4Test(30));
-		experiments.add(new Lesson4Test(50));
+		experiments.add(new Lesson4Test(50));*/
+
+		experiments.add(new Lesson5Test(10));
+		experiments.add(new Lesson5Test(50));
 		
 		//@@@@@@
 	
