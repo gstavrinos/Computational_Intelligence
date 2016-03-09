@@ -127,4 +127,3 @@ benchmarks.BaseFunctions.Sphere
 benchmarks.BaseFunctions.Rastigin
 benchmarks.BaseFunctions.Schwefel
 benchmarks.BaseFunctions.Michalewicz
-

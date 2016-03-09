@@ -1,0 +1,120 @@
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v1 
+OnePlusOneEvolutionStrategy_v1:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v1 
+OnePlusOneEvolutionStrategy_v1:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v2 
+OnePlusOneEvolutionStrategy_v2:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v2 
+OnePlusOneEvolutionStrategy_v2:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v1 
+OnePlusOneEvolutionStrategy_v1:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v1 
+OnePlusOneEvolutionStrategy_v1:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v2 
+OnePlusOneEvolutionStrategy_v2:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v2 
+OnePlusOneEvolutionStrategy_v2:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v1 
+OnePlusOneEvolutionStrategy_v1:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v1 
+OnePlusOneEvolutionStrategy_v1:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v2 
+OnePlusOneEvolutionStrategy_v2:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 100
+Algorithms: OnePlusOneEvolutionStrategy_v2 
+OnePlusOneEvolutionStrategy_v2:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
