@@ -16,7 +16,7 @@ import static utils.algorithms.Misc.toro;
 public class PSO extends Algorithm {
 
     @Override
-    public RunAndStore.FTrend execute(Problem problem, int maxGenerations) throws Exception {
+    public RunAndStore.FTrend execute(Problem problem, int maxEvaluations) throws Exception {
 
         int NP = 50;
         int problemDimension = problem.getDimension();
@@ -57,27 +57,27 @@ public class PSO extends Algorithm {
         double phi2 = 1.49618; //Clerc's suggestion
         double phi3 = 1.49618;
         FT.add(0, fxgb);
-        int currGenerations = 0;
+        int currEvaluations = 0;
         int global_iteration = 0;
-        while(currGenerations < maxGenerations){
+        while(currEvaluations < maxEvaluations){
             for(int i = 0;i<NP;i++){
                 global_iteration++;
-                double phi1 = phimax - ((phimin-phimax)/maxGenerations)*currGenerations;
+                double phi1 = phimax - ((phimin-phimax)/maxEvaluations)*currEvaluations;
                 vi[i] = MatLab.sum(MatLab.multiply(phi1,vi[i]), MatLab.sum(MatLab.multiply(phi2, MatLab.subtract(xilb[i], xi[i])), MatLab.multiply(phi3, MatLab.subtract(xgb,xi[i]))));
                 xi[i] = MatLab.sum(xi[i], vi[i]);
+                //TODO seems to be working now. just add toro here.
                 double fxi = problem.f(xi[i]);
+                currEvaluations++;
                 if(fxi <= fxilb[i]){
                     xilb[i] = xi[i];
                     fxilb[i] = fxi;
                     if(fxi <= fxgb){
                         xgb = xi[i];
                         fxgb = fxi;
-                        FT.add(global_iteration,fxgb);
                     }
-                    //update swarm
                 }
             }
-            currGenerations++;
+            FT.add(currEvaluations,fxgb);
         }
 
         finalBest = xgb;
