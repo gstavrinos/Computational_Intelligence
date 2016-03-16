@@ -42,7 +42,7 @@ public class SimulatedAnnealing extends Algorithm {
             for (int i = 0; i < problemDimension && currEvaluations < maxEvaluations && T > Tmin; i++) {
                 xnew[i] = neighborSolution(xcb[i]);
                 if(xnew[i] < bounds[i][0] || xnew[i] > bounds[i][1]){
-                    toro(xnew, bounds);
+                    xnew = toro(xnew, bounds);
                 }
                 fxnew = problem.f(xnew);
                 currEvaluations++;

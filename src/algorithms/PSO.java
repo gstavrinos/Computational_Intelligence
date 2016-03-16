@@ -5,7 +5,7 @@ import interfaces.Problem;
 import utils.MatLab;
 import utils.RunAndStore;
 
-import java.util.Random;
+import java.util.Arrays;
 
 import static utils.algorithms.Misc.generateRandomSolution;
 import static utils.algorithms.Misc.toro;
@@ -36,7 +36,6 @@ public class PSO extends Algorithm {
 
         //initializing values
         for(int i = 0;i<NP;i++){
-            Random random = new Random();
             vi[i] = generateRandomSolution(problem.getBounds(), problemDimension);//random.nextDouble()*(problem.getBounds()[0][1] - problem.getBounds()[0][0] + 1) + problem.getBounds()[0][0];
             xi[i] = generateRandomSolution(problem.getBounds(), problemDimension);
             xilb = xi;
@@ -58,14 +57,18 @@ public class PSO extends Algorithm {
         double phi3 = 1.49618;
         FT.add(0, fxgb);
         int currEvaluations = 0;
-        int global_iteration = 0;
         while(currEvaluations < maxEvaluations){
             for(int i = 0;i<NP;i++){
-                global_iteration++;
                 double phi1 = phimax - ((phimin-phimax)/maxEvaluations)*currEvaluations;
                 vi[i] = MatLab.sum(MatLab.multiply(phi1,vi[i]), MatLab.sum(MatLab.multiply(phi2, MatLab.subtract(xilb[i], xi[i])), MatLab.multiply(phi3, MatLab.subtract(xgb,xi[i]))));
                 xi[i] = MatLab.sum(xi[i], vi[i]);
-                //TODO seems to be working now. just add toro here.
+                //if one of the values in this vector is out of bounds, use toroidal correction for this vector
+                for(int j = 0; j < problemDimension; j++) {
+                    if (xi[i][j] < problem.getBounds()[0][0] || xi[i][j] > problem.getBounds()[0][1]) {
+                        xi[i] = toro(xi[i], problem.getBounds());
+                        break;
+                    }
+                }
                 double fxi = problem.f(xi[i]);
                 currEvaluations++;
                 if(fxi <= fxilb[i]){

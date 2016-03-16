@@ -44,7 +44,7 @@ public class S extends Algorithm {
             for (int i = 0; i < problemDimension && currEvaluations < maxEvaluations; i++){
                 xs[i] = xsbest[i] - delta[i];
                 if(xs[i] < bounds[i][0] || xs[i] > bounds[i][1]){
-                    toro(xs, bounds);
+                    xs = toro(xs, bounds);
                 }
                 fxs = problem.f(xs);
                 currEvaluations++;
@@ -56,7 +56,7 @@ public class S extends Algorithm {
                 else{
                     xs[i] = xsbest[i] + delta[i]/2;
                     if(xs[i] < bounds[i][0] || xs[i] > bounds[i][1]){
-                        toro(xs, bounds);
+                        xs = toro(xs, bounds);
                     }
                     fxs = problem.f(xs);
                     currEvaluations++;
@@ -68,7 +68,7 @@ public class S extends Algorithm {
                     else{
                         xs[i] = xsbest[i];
                         if(xs[i] < bounds[i][0] || xs[i] > bounds[i][1]){
-                            toro(xs, bounds);
+                            xs = toro(xs, bounds);
                         }
                     }
                 }
