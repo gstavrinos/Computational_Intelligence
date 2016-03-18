@@ -1,5 +1,6 @@
 package experiments;
 
+import algorithms.CLPSO;
 import algorithms.OnePlusOneEvolutionStrategy_v1;
 import algorithms.OnePlusOneEvolutionStrategy_v2;
 import algorithms.PSO;
@@ -20,8 +21,9 @@ public class Lesson7Test  extends Experiment {
         Algorithm a;
         Problem p;
 
-        a = new PSO();
-
+        //a = new PSO();
+        //add(a); //add it to the list
+        a = new CLPSO();
         add(a); //add it to the list
 
         p = new BaseFunctions.Sphere(probDim);
