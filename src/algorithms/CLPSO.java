@@ -18,8 +18,6 @@ public class CLPSO extends Algorithm {
     @Override
     public RunAndStore.FTrend execute(Problem problem, int maxEvaluations) throws Exception {
 
-        //This code is based on
-        //https://books.google.gr/books?id=6DT3BwAAQBAJ&pg=PA232&lpg=PA232&dq=clpso+pseudo+code&source=bl&ots=7SednNT9Bk&sig=hGv5TpfeYTw_np3e3d2iYJEAz8Y&hl=en&sa=X&ved=0ahUKEwjJ_4y7gMbLAhVlc3IKHdKsDwAQ6AEIGjAA#v=onepage&q=clpso%20pseudo%20code&f=false
         int NP = 50;
         int problemDimension = problem.getDimension();
         double Vmax = problem.getBounds()[0][1]-problem.getBounds()[0][0];
@@ -87,12 +85,16 @@ public class CLPSO extends Algorithm {
                         xirlb[i] = xilb[r2];
                     }
                 }
-                //vi[i] = MatLab.sum(MatLab.multiply(phi1,vi[i]), MatLab.sum(MatLab.multiply(phi2, MatLab.subtract(xilb[i], xi[i])), MatLab.multiply(phi3, MatLab.subtract(xgb,xi[i]))));
-                double U[][] =  new double[NP][problemDimension];
+                /*double U[][] =  new double[NP][problemDimension];
                 for(int ii=0;ii<NP;ii++) {
                     U[ii] = generateRandomSolution(new double[]{0, 1}, problemDimension);
-                }
-                vi[i] = MatLab.sum(MatLab.multiply(w,vi[i]),MatLab.multiply(MatLab.multiply(c,U),MatLab.subtract(xirlb[i],xi[i])));
+                }*/
+                //In some papers only a single random value is used, so I am going to use this
+                //instead of the above random vector, to improve execution times.
+                double U = Math.random();
+                vi[i] = MatLab.sum(MatLab.multiply(w,vi[i]),MatLab.multiply(c*U,MatLab.subtract(xirlb[i],xi[i])));
+                //Use the line below if U is a vector instead of the above line
+                //vi[i] = MatLab.sum(MatLab.multiply(w,vi[i]),MatLab.multiply(MatLab.multiply(c,U),MatLab.subtract(xirlb[i],xi[i])));
                 xi[i] = MatLab.sum(xi[i], vi[i]);
                 //if one of the values in this vector is out of bounds, use toroidal correction for this vector
                 for(int j = 0; j < problemDimension; j++) {
