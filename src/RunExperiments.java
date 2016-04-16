@@ -47,11 +47,21 @@ public class RunExperiments
 		experiments.add(new Lesson6Test(50,1));
 		experiments.add(new Lesson6Test(10,2));
 		experiments.add(new Lesson6Test(50,2));
-		*/
+
 
 
 		experiments.add(new Lesson7Test(10));
-		experiments.add(new Lesson7Test(50));
+		experiments.add(new Lesson7Test(50));*/
+
+		//experiments.add(new Lesson8Test(10,1,0));
+		//experiments.add(new Lesson8Test(50,1,0));
+		//experiments.add(new Lesson8Test(100,1,0));
+		experiments.add(new Lesson8Test(10,2,0));
+		experiments.add(new Lesson8Test(50,2,0));
+		experiments.add(new Lesson8Test(100,2,0));
+		experiments.add(new Lesson8Test(10,2,1));
+		experiments.add(new Lesson8Test(50,2,1));
+		experiments.add(new Lesson8Test(100,2,1));
 
 		//@@@@@@
 	
@@ -60,6 +70,8 @@ public class RunExperiments
 		for(Experiment experiment : experiments)
 		{
 			//experiment.setShowPValue(true);
+			experiment.setNrRuns(30);
+			experiment.setBudgetFactor(10);
 			experiment.startExperiment();
 			System.out.println("");
 			experiment = null;
