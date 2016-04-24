@@ -34,7 +34,6 @@ public class DifferentialEvolution_rand1exp extends Algorithm {
         double fbest = Double.MAX_VALUE;
         double xbest[] = new double[problemDimension];
 
-        FT.add(g, fbest);
         for(int i=0; i < population; i++){
             individuals_value[i] = generateRandomSolution(bounds, problemDimension);
             individuals_fitness[i] = problem.f(individuals_value[i]);
@@ -43,6 +42,7 @@ public class DifferentialEvolution_rand1exp extends Algorithm {
                 fbest = individuals_fitness[i];
             }
         }
+	FT.add(g, fbest);
         Random random = new Random();
 
         double individuals_value_next[][] = individuals_value;
