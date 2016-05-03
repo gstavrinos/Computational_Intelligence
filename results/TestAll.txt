@@ -1,0 +1,174 @@
+##################### 10 D #####################
+Number of runs: 30
+Algorithms: S SimulatedAnnealing GeneticAlgorithm OnePlusOneEvolutionStrategy_v1 OnePlusOneEvolutionStrategy_v2 CLPSO DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin RIS CustomMemeticAlgorithm 
+S:
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+OnePlusOneEvolutionStrategy_v1:
+OnePlusOneEvolutionStrategy_v2:
+CLPSO:
+DifferentialEvolution_rand1exp:(population 100.0)(bin_exp 0.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 0.0)
+RIS:
+CustomMemeticAlgorithm:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 30
+Algorithms: S SimulatedAnnealing GeneticAlgorithm OnePlusOneEvolutionStrategy_v1 OnePlusOneEvolutionStrategy_v2 CLPSO DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin RIS CustomMemeticAlgorithm 
+S:
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+OnePlusOneEvolutionStrategy_v1:
+OnePlusOneEvolutionStrategy_v2:
+CLPSO:
+DifferentialEvolution_rand1exp:(population 100.0)(bin_exp 0.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 0.0)
+RIS:
+CustomMemeticAlgorithm:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 100 D #####################
+Number of runs: 30
+Algorithms: S SimulatedAnnealing GeneticAlgorithm OnePlusOneEvolutionStrategy_v1 OnePlusOneEvolutionStrategy_v2 CLPSO DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin RIS CustomMemeticAlgorithm 
+S:
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+OnePlusOneEvolutionStrategy_v1:
+OnePlusOneEvolutionStrategy_v2:
+CLPSO:
+DifferentialEvolution_rand1exp:(population 100.0)(bin_exp 0.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 0.0)
+RIS:
+CustomMemeticAlgorithm:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 30
+Algorithms: CustomMemeticAlgorithm S SimulatedAnnealing GeneticAlgorithm OnePlusOneEvolutionStrategy_v1 OnePlusOneEvolutionStrategy_v2 CLPSO DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin RIS 
+CustomMemeticAlgorithm:
+S:
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+OnePlusOneEvolutionStrategy_v1:
+OnePlusOneEvolutionStrategy_v2:
+CLPSO:
+DifferentialEvolution_rand1exp:(population 100.0)(bin_exp 0.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 0.0)
+RIS:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 30
+Algorithms: CustomMemeticAlgorithm S SimulatedAnnealing GeneticAlgorithm OnePlusOneEvolutionStrategy_v1 OnePlusOneEvolutionStrategy_v2 CLPSO DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin RIS 
+CustomMemeticAlgorithm:
+S:
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+OnePlusOneEvolutionStrategy_v1:
+OnePlusOneEvolutionStrategy_v2:
+CLPSO:
+DifferentialEvolution_rand1exp:(population 100.0)(bin_exp 0.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 0.0)
+RIS:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 100 D #####################
+Number of runs: 30
+Algorithms: CustomMemeticAlgorithm S SimulatedAnnealing GeneticAlgorithm OnePlusOneEvolutionStrategy_v1 OnePlusOneEvolutionStrategy_v2 CLPSO DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin RIS 
+CustomMemeticAlgorithm:
+S:
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+OnePlusOneEvolutionStrategy_v1:
+OnePlusOneEvolutionStrategy_v2:
+CLPSO:
+DifferentialEvolution_rand1exp:(population 100.0)(bin_exp 0.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 0.0)
+RIS:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 30
+Algorithms: CustomMemeticAlgorithm S SimulatedAnnealing GeneticAlgorithm OnePlusOneEvolutionStrategy_v1 OnePlusOneEvolutionStrategy_v2 PSO CLPSO DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin RIS 
+CustomMemeticAlgorithm:
+S:
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+OnePlusOneEvolutionStrategy_v1:
+OnePlusOneEvolutionStrategy_v2:
+PSO:
+CLPSO:
+DifferentialEvolution_rand1exp:(population 100.0)(bin_exp 0.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 0.0)
+RIS:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 30
+Algorithms: CustomMemeticAlgorithm S SimulatedAnnealing GeneticAlgorithm OnePlusOneEvolutionStrategy_v1 OnePlusOneEvolutionStrategy_v2 PSO CLPSO DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin RIS 
+CustomMemeticAlgorithm:
+S:
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+OnePlusOneEvolutionStrategy_v1:
+OnePlusOneEvolutionStrategy_v2:
+PSO:
+CLPSO:
+DifferentialEvolution_rand1exp:(population 100.0)(bin_exp 0.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 0.0)
+RIS:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 100 D #####################
+Number of runs: 30
+Algorithms: CustomMemeticAlgorithm S SimulatedAnnealing GeneticAlgorithm OnePlusOneEvolutionStrategy_v1 OnePlusOneEvolutionStrategy_v2 PSO CLPSO DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin RIS 
+CustomMemeticAlgorithm:
+S:
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+OnePlusOneEvolutionStrategy_v1:
+OnePlusOneEvolutionStrategy_v2:
+PSO:
+CLPSO:
+DifferentialEvolution_rand1exp:(population 100.0)(bin_exp 0.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 0.0)
+RIS:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+

@@ -63,12 +63,15 @@ public class RunExperiments
 		experiments.add(new Lesson8Test(50,2,1));
 		experiments.add(new Lesson8Test(100,2,1));*/
 
-		experiments.add(new Lesson9Test(10,1));
+		/*experiments.add(new Lesson9Test(10,1));
 		experiments.add(new Lesson9Test(50,1));
 		experiments.add(new Lesson9Test(100,1));
 		experiments.add(new Lesson9Test(10,2));
 		experiments.add(new Lesson9Test(50,2));
-		experiments.add(new Lesson9Test(100,2));
+		experiments.add(new Lesson9Test(100,2));*/
+		experiments.add(new TestAll(10));
+		experiments.add(new TestAll(50));
+		experiments.add(new TestAll(100));
 
 		//@@@@@@
 	
