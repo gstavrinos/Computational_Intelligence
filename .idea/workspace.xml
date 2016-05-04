@@ -2,732 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe1d78cf-1d66-4576-b4aa-ec14f033d8b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/experiments/TestAll.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-10/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-100/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Michalewicz-50/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-10/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-100/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Rastigin-50/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-10/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-100/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Schwefel-50/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-10/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-100/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/CustomMemeticAlgorithm-1/benchmarks.BaseFunctions.Sphere-50/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-10/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-100/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Michalewicz-50/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-10/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-100/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Rastigin-50/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-10/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-100/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Schwefel-50/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-10/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-100/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/26.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/27.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/28.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/Lesson9Test/RIS-1/benchmarks.BaseFunctions.Sphere-50/9.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CIO_Software/RunExperiments.class" afterPath="$PROJECT_DIR$/out/production/CIO_Software/RunExperiments.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CIO_Software/algorithms/CustomMemeticAlgorithm.class" afterPath="$PROJECT_DIR$/out/production/CIO_Software/algorithms/CustomMemeticAlgorithm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/CIO_Software/algorithms/RIS.class" afterPath="$PROJECT_DIR$/out/production/CIO_Software/algorithms/RIS.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RunExperiments.java" afterPath="$PROJECT_DIR$/src/RunExperiments.java" />
     </list>
     <ignored path="CIO_Software.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -751,79 +26,7 @@
     <favorites_list name="CIO_Software" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RunExperiments.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RunExperiments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.384615">
-              <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestAll.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/experiments/TestAll.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lesson9Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/experiments/Lesson9Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="26" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResultsGenerator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ResultsGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.6690516">
-              <caret line="225" column="5" selection-start-line="225" selection-start-column="5" selection-end-line="225" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunAndStore.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/utils/RunAndStore.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.4615386">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseFunctions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/benchmarks/BaseFunctions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="325" column="10" selection-start-line="325" selection-start-column="10" selection-end-line="325" selection-end-column="10" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -904,7 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1007,7 +210,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1316,8 +519,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38185653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1328,6 +530,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942098" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1452,9 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1469,9 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.607142">
           <caret line="37" column="47" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1500,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="70" column="22" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1508,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3325868">
           <caret line="50" column="12" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1516,9 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.60912055">
           <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1526,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35303777">
           <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1541,7 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1549,9 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.016286645">
           <caret line="28" column="57" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1559,7 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1588,9 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.016286645">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1598,9 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4096601">
           <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1615,9 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="120" column="5" selection-start-line="16" selection-start-column="0" selection-end-line="121" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1644,7 +821,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libs/utils/RunAndStore.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.4615386">
+        <state vertical-scroll-proportion="0.0">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
         </state>
@@ -1665,9 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="157" column="22" selection-start-line="157" selection-start-column="20" selection-end-line="157" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1711,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.3257329">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1745,7 +918,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RunExperiments.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.384615">
+        <state vertical-scroll-proportion="0.0">
           <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1765,8 +938,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ResultsGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.6690516">
-          <caret line="225" column="5" selection-start-line="225" selection-start-column="5" selection-end-line="225" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.56350625">
+          <caret line="215" column="19" selection-start-line="215" selection-start-column="19" selection-end-line="215" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
