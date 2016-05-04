@@ -213,16 +213,17 @@ public class ResultsGenerator {
                 }
             }
         }
+        boolean accepted = false;
         for(int i=1;i<Na;i++){
             double d = delta[i]/(Na-i);
             System.out.print(i+" & "+algs[i]+" & "+R[i]+" & "+z[i]+" & "+pvalue[i]+" & "+d+" & ");
-            if(pvalue[i]<d){
+            if(pvalue[i]<d || accepted){
                 System.out.println("Accepted \\\\");
+                accepted = true;//from here, all the following are accepted.
             }
             else{
                 System.out.println("Rejected \\\\");
             }
         }
     }
-
 }
