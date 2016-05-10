@@ -28,3 +28,66 @@ benchmarks.BaseFunctions.Rastigin
 benchmarks.BaseFunctions.Schwefel
 benchmarks.BaseFunctions.Michalewicz
 
+##################### 10 D #####################
+Number of runs: 30
+Algorithms: SimulatedAnnealing 
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 30 D #####################
+Number of runs: 30
+Algorithms: SimulatedAnnealing 
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 30
+Algorithms: SimulatedAnnealing 
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 30
+Algorithms: SimulatedAnnealing SimulatedAnnealing-1 
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+SimulatedAnnealing-1:(method 0.0)(alpha -99.49916247342207)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 30 D #####################
+Number of runs: 30
+Algorithms: SimulatedAnnealing SimulatedAnnealing-1 
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+SimulatedAnnealing-1:(method 0.0)(alpha -99.49916247342207)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 30
+Algorithms: SimulatedAnnealing SimulatedAnnealing-1 
+SimulatedAnnealing:(method 1.0)(alpha 0.99)
+SimulatedAnnealing-1:(method 0.0)(alpha -99.49916247342207)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+

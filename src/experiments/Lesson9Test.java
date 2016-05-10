@@ -17,12 +17,18 @@ public class Lesson9Test extends Experiment {
         Algorithm a;
         Problem p;
 
-        if(variant == 1) {
+        /*if(variant == 1) {
             a = new RIS();
         }
         else{
             a = new CustomMemeticAlgorithm();
-        }
+        }*/
+
+        a = new RIS();
+
+        add(a); //add it to the list
+
+        a = new CustomMemeticAlgorithm();
 
         add(a); //add it to the list
 

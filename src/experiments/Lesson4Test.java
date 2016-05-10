@@ -27,6 +27,13 @@ public class Lesson4Test extends Experiment {
         //a.setParameter("alpha", 1/Math.log(0.5));
         add(a); //add it to the list
 
+
+        a = new SimulatedAnnealing();
+        a.setParameter("method",0d);//  /sqrt(T)
+        a.setParameter("alpha", 1/Math.log(0.99));
+
+        add(a);
+
         p = new BaseFunctions.Sphere(probDim);
         add(p);//add it to the list
         p = new BaseFunctions.Rastigin(probDim);

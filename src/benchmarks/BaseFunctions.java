@@ -247,7 +247,7 @@ public class BaseFunctions
 				for (int i = 0; i < n; i++){
 					sum += x[i]*Math.sin(Math.sqrt(Math.abs(x[i])));
 				}
-				y = 418.9829*this.getDimension();
+				y = 418.9829*this.getDimension() - sum;
 			}
 			return y;
 		}

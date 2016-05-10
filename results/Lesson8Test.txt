@@ -88,3 +88,27 @@ benchmarks.BaseFunctions.Rastigin
 benchmarks.BaseFunctions.Schwefel
 benchmarks.BaseFunctions.Michalewicz
 
+##################### 10 D #####################
+Number of runs: 30
+Algorithms: DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin jDifferentialEvolution_rand1exp_bin-1 
+DifferentialEvolution_rand1exp:(population 100.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 1.0)
+jDifferentialEvolution_rand1exp_bin-1:(population 100.0)(bin_exp 0.0)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 30
+Algorithms: DifferentialEvolution_rand1exp jDifferentialEvolution_rand1exp_bin jDifferentialEvolution_rand1exp_bin-1 
+DifferentialEvolution_rand1exp:(population 100.0)
+jDifferentialEvolution_rand1exp_bin:(population 100.0)(bin_exp 1.0)
+jDifferentialEvolution_rand1exp_bin-1:(population 100.0)(bin_exp 0.0)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+

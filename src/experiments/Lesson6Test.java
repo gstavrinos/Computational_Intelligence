@@ -2,6 +2,7 @@ package experiments;
 
 import algorithms.OnePlusOneEvolutionStrategy_v1;
 import algorithms.OnePlusOneEvolutionStrategy_v2;
+import algorithms.S;
 import benchmarks.BaseFunctions;
 import interfaces.Algorithm;
 import interfaces.Experiment;
@@ -16,12 +17,11 @@ public class Lesson6Test extends Experiment {
         Algorithm a;
         Problem p;
 
-        if(variant == 1) {
+        a = new S();
+        add(a);
             a = new OnePlusOneEvolutionStrategy_v1();
-        }
-        else{
+        add(a); //add it to the list
             a = new OnePlusOneEvolutionStrategy_v2();
-        }
 
         add(a); //add it to the list
 

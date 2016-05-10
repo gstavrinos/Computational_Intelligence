@@ -21,8 +21,8 @@ public class Lesson7Test  extends Experiment {
         Algorithm a;
         Problem p;
 
-        //a = new PSO();
-        //add(a); //add it to the list
+        a = new PSO();
+        add(a); //add it to the list
         a = new CLPSO();
         add(a); //add it to the list
 

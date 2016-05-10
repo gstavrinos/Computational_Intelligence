@@ -18,15 +18,24 @@ public class Lesson8Test extends Experiment {
         Algorithm a;
         Problem p;
 
-        if(variant == 1) {
+        /*if(variant == 1) {
             a = new DifferentialEvolution_rand1exp();
         }
         else{
             a = new jDifferentialEvolution_rand1exp_bin();
-        }
-
+        }*/
+        a = new DifferentialEvolution_rand1exp();
         a.setParameter("population",100d);
-        a.setParameter("bin_exp",(double)crossover);
+        add(a); //add it to the list
+
+        a = new jDifferentialEvolution_rand1exp_bin();
+        a.setParameter("population",100d);
+        a.setParameter("bin_exp",1.0);
+        add(a); //add it to the list
+
+        a = new jDifferentialEvolution_rand1exp_bin();
+        a.setParameter("population",100d);
+        a.setParameter("bin_exp",0.0);
         add(a); //add it to the list
 
         p = new BaseFunctions.Sphere(probDim);

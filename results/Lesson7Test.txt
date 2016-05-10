@@ -498,3 +498,25 @@ benchmarks.BaseFunctions.Rastigin
 benchmarks.BaseFunctions.Schwefel
 benchmarks.BaseFunctions.Michalewicz
 
+##################### 10 D #####################
+Number of runs: 30
+Algorithms: PSO CLPSO 
+PSO:
+CLPSO:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 30
+Algorithms: PSO CLPSO 
+PSO:
+CLPSO:
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+

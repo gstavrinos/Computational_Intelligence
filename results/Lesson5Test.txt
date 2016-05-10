@@ -126,4 +126,23 @@ Problems:
 benchmarks.BaseFunctions.Sphere
 benchmarks.BaseFunctions.Rastigin
 benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz##################### 10 D #####################
+Number of runs: 30
+Algorithms: GeneticAlgorithm 
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
 benchmarks.BaseFunctions.Michalewicz
+
+##################### 50 D #####################
+Number of runs: 30
+Algorithms: GeneticAlgorithm 
+GeneticAlgorithm:(tournament_size 2.0)(children 2.0)(population 1000.0)
+Problems:
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Michalewicz
+
